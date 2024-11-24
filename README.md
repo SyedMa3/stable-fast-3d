@@ -24,6 +24,10 @@ Stable Fast 3D is based on [TripoSR](https://github.com/VAST-AI-Research/TripoSR
 
 ## Getting Started
 
+Follow the instructions in [INSTALLATION.md](./INSTALLATION.md) to install the model and run the demo.
+
+Or follow the instructions below to install the model manually.
+
 ### Installation
 
 Ensure your environment is:
